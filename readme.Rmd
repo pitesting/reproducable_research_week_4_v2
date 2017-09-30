@@ -1,0 +1,24 @@
+---
+title: "reproducable_research_week_4_v2"
+author: "Josh Allsop"
+date: "30 September 2017"
+output: html_document
+---
+
+## Reproducible Research: Peer Assessment 2
+
+Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
+
+This project involves exploring the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database. This database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage.
+
+## Synopsis
+
+In this analysis, we seek to address the following research questions,
+
+Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?
+
+Across the United States, which types of events have the greatest economic consequences?
+
+We will need to perform data pre-processing, including data cleansing, transformation, create derived variables and etc, before we can perform analysis using the the 'tidy' data set.
+
+
