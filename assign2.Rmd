@@ -97,6 +97,7 @@ dfTemp2$END_DATE <- mdy_hms(dfTemp2$END_DATE)
 
 ### Translate the impact values
 The economic impact to property and crop damages were not recorded as 'as is' values. We need to translate them into actual dollar values. In addition, we need to adjust these translated values with yearly inflation rates from 1950 to 2011 so that we can view the economic impacts in real terms.
+
 ```{r FixDollar, message=FALSE}
 
 # Do CPI data part
